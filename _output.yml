@@ -6,7 +6,7 @@ bookdown::gitbook:
         <li><a href="./">SciDB Insight API</a></li>
       after: |
         <li><a href="http://paradigm4.com" target="blank">Paradigm4 Inc.</a></li>
-    edit: https://github.com/paradigm4/insight-api-docs/edit/gh-pages/%s
+    edit: https://github.com/ksens/insight-api-docs/edit/master/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
