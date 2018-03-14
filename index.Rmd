@@ -14,6 +14,7 @@ description: "Documentation for the SciDB Insight API"
 
 # Introduction {#intro}
 
+[https://github.com/paradigm4/insight](https://github.com/paradigm4/insight)
 
 ```{r insight-api-intro, echo=FALSE, fig.cap='Insight API', out.width='80%', fig.asp=.75, fig.align='center'}
 knitr::include_graphics('img/insight-api-intro.png')
@@ -21,7 +22,7 @@ knitr::include_graphics('img/insight-api-intro.png')
 
 ## What is Insight?
 
-The Insight API ([https://github.com/paradigm4/insight](https://github.com/paradigm4/insight)) leverages the multidimensional array database [SciDB](https://www.paradigm4.com/) to handle:
+The Insight API leverages the multidimensional array database [SciDB](https://www.paradigm4.com/) to handle:
 
 - multiple data sources
 - multiple formats
